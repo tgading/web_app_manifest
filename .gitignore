@@ -1,0 +1,4 @@
+assets/*
+!assets/.htaccess
+!assets/icons/default.png
+!assets/icons/settings.png
